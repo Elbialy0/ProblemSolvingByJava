@@ -1,12 +1,6 @@
-import java.lang.reflect.Array;
-import java.math.BigInteger;
-import java.util.Arrays;
-import java.util.HashSet;
+
 import java.util.Scanner;
-import java.util.Set;
-
-
-public class Main {
+public class NightattheMuseum {
  public static  int [] ConvertStringToArray(String string)
 {
     int []arr=new int[string.length()];
